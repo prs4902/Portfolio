@@ -1,5 +1,5 @@
 {
-  
+  "homepage": "https://prs4902.github.io/portfolio",
   "name": "portfolio",
   
   "private": true,
@@ -10,7 +10,8 @@
   
   "scripts": {
   
-    
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d dist",
   "dev": "vite",
   
     
