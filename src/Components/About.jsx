@@ -36,7 +36,15 @@ const About = () => {
             <h1 className=" flex my-2">
             <p className="font-semibold mr-1">Libraries/Frameworks: </p> <span>React.Js, Material UI, Bootstrap.</span></h1>
             <h1 className=" flex my-2">
-            <p className="font-semibold mr-1">Tools: </p> <span>Git, Github.</span></h1>           
+            <p className="font-semibold mr-1">Tools: </p> <span>Git, Github.</span></h1>
+            <br/>
+            <h1 className='text-red-700 font-semibold text-xl mb-2'>Hobbies</h1>
+            <h1 className=" flex my-2">
+            <span>Writting Poetries</span></h1>
+            <h1 className=" flex my-2">
+            <span>Photography</span></h1>
+            <h1 className=" flex my-2">
+            <span>Peace Corps</span></h1>
         </div >
         <br />
         <hr />
