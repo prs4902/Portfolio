@@ -11,7 +11,7 @@ import { IoLogoCss3 } from "react-icons/io5";
 import { RiTailwindCssFill } from "react-icons/ri";
 import { FaBootstrap } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa6";
-import { FaGitAlt } from "react-icons/fa6";
+import { FaGitAlt } from "react-icons/fa6";  
 
 const Home = () => {
     return (
